@@ -36,7 +36,7 @@ You don't need prior experience with frameworks. Just JavaScript and the will to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DevByMike/devbymike-js-interview-lab.git
+   git clone https://github.com/MiguelCovarrubiasdaiz/devbymike-js-interview-lab.git
    cd devbymike-js-interview-lab
    ```
 2. Read the questions by topic, starting with `01-fundamentals/`.
