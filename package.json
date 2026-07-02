@@ -1,0 +1,29 @@
+{
+  "name": "devbymike-js-interview-lab",
+  "version": "1.0.0",
+  "description": "Questions, exercises, and challenges to prepare for JavaScript technical interviews. JS Interview Lab by DevByMike.",
+  "type": "commonjs",
+  "scripts": {
+    "start:challenge": "node 06-code-challenges/reverse-string.js",
+    "output:001": "node 07-output-questions/output-001.js",
+    "output:002": "node 07-output-questions/output-002.js",
+    "output:003": "node 07-output-questions/output-003.js",
+    "output:004": "node 07-output-questions/output-004.js",
+    "output:005": "node 07-output-questions/output-005.js",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "javascript",
+    "interview",
+    "interview-questions",
+    "practice",
+    "junior",
+    "frontend",
+    "devbymike"
+  ],
+  "author": "DevByMike",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  }
+}
